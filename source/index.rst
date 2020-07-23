@@ -10,6 +10,10 @@ Welcome to RTD Playground's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   first.rst
+   second.rst
+   third.rst
+
 
 
 Indices and tables
